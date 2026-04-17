@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/150?u=1",
+    "email": "david.kim@example.com",
+    "days_since_contact": 62,
+    "status": "almost due",
+    "tags": ["WORK"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 65,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?u=2",
+    "email": "emma.w@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["FAMILY"],
+    "bio": "Cousin from New York. Always fun to catch up.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/150?u=3",
+    "email": "lisa.nakamura@example.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["WORK"],
+    "bio": "Design team lead. Discuss UI trends.",
+    "goal": 14,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/150?u=4",
+    "email": "james.w@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Travel buddy. Planning the next Japan trip.",
+    "goal": 45,
+    "next_due_date": "2026-03-01"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://i.pravatar.cc/150?u=5",
+    "email": "sarah.c@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["COLLEGE"],
+    "bio": "University bestie. Coffee lover.",
+    "goal": 10,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Johnson",
+    "picture": "https://i.pravatar.cc/150?u=6",
+    "email": "marcus.j@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["GYM"],
+    "bio": "Workout partner. Keeps me motivated.",
+    "goal": 30,
+    "next_due_date": "2026-04-19"
+  }
+]
